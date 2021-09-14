@@ -21,8 +21,4 @@ Usar herramientas modernas como NLP para entender el comportamiento humano y los
 
 - Corre el notebook "Combined Algorithms"
 - Crea un archivo twitterkeys.py con tus API keys de Twitter
-- Corre el archivo Graphs.ipynb para visualizar la grafica en tiempo real
-
-```bash
-python3 main.py
-```
+- Corre el archivo TwitterStream.ipynb y Graphs.ipynb al mismo tiempo para visualizar la grafica en tiempo real
