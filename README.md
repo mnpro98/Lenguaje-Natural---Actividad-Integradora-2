@@ -19,6 +19,6 @@ Usar herramientas modernas como NLP para entender el comportamiento humano y los
 
 ### ¿Cómo corro este proyecto?
 
-- Corre el notebook "Combined Algorithms"
-- Crea un archivo twitterkeys.py con tus API keys de Twitter
-- Corre el archivo TwitterStream.ipynb y Graphs.ipynb al mismo tiempo para visualizar la grafica en tiempo real
+- Correr el notebook "Combined Algorithms" para generar featuresets.pickle
+- Crear un archivo twitterkeys.py con tus API keys de Twitter
+- Correr primero TwitterStream.ipynb y después Graphs.ipynb mientras TwitterStream sigue ejecutándose para visualizar la grafica en tiempo real.
