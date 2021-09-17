@@ -129,4 +129,3 @@ dmypy.json
 .pyre/
 
 twitterkeys.py
-pickled_algos/featuresets.pickle

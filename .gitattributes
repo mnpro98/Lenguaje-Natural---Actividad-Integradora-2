@@ -1,0 +1,2 @@
+featuresets.pickle filter=lfs diff=lfs merge=lfs -text
+pickled_algos/featuresets.pickle filter=lfs diff=lfs merge=lfs -text
